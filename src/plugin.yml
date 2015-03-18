@@ -1,0 +1,7 @@
+name: BukkitCalc
+main: com.reddit.bukkitcalc.BukkitCalculatorPlugin
+version: '1.0a'
+description: Basic math runner
+commands:
+   calc:
+      description: Runs math
